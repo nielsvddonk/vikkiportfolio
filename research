@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+<script src="jquery-3.2.0.min.js"></script>
+
+<link rel="icon" href="img/icon.png">
+<title>Victoria Louise Young</title>
+
+</head>
+<body>
+  <div class="container">
+      <div class="top">
+        <p><a href="http://victorialouiseyoung.com/" style="text-decoration: none; color:black;">Victoria Louise Young</a> | <a href="about.html">About</a> / <a href="research.html">Research</a></p>
+      </div>
+      <div class="middle_full">
+      <embed src="socialmedia.pdf" width="100%" height="100%" />
+
+
+      </div>
+      </div>
+
+
+
+
+</body>
+</html>
